@@ -40,7 +40,7 @@ namespace HW1
 
             ExampleLinkedList exampleLinkedList = new ExampleLinkedList();
             exampleLinkedList.ShowExample();
-
+            
             ExInterfaces exInterfaces = new ExInterfaces();
             exInterfaces.ShowExample();
 

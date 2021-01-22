@@ -56,6 +56,22 @@ namespace HW1.ExampleInterfaces
         }
     }
 
+    class Deposit: IBankAccount, ISum
+    {
+        public string AccNo { get; }
+        public string Value { get; }
+
+        public Deposit(string accNo, double value)
+        {
+            AccNo = accNo;
+            Value = Convert.ToString(value);
+        }
+
+        public void ShowDeposit()
+        { Console.WriteLine($"Счет: {AccNo}, сумма {Value}"); }
+
+    }
+
     class ExInterfaces
     {
         public void ShowExample()
@@ -70,6 +86,10 @@ namespace HW1.ExampleInterfaces
 
             foreach (var el in dictAcc)
                 Console.WriteLine(el.Key.AccNo + "\t" + el.Value.Value);
+
+            Console.WriteLine("\n");
+            Deposit deposit = new Deposit("21524544121", 555);
+            deposit.ShowDeposit();
 
             Console.WriteLine("\n***************************************************");
         }
