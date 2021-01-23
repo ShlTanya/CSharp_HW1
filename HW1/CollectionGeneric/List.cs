@@ -69,7 +69,7 @@ namespace HW1.CollectionGeneric
             //удалим заданный (по индексу) элемент инверсированной коллекции
             Console.WriteLine("\n");
             Console.WriteLine("Введите индекс удаляемого элемента");
-            if ((int.TryParse(Console.ReadLine(), out int Index)) && (Index > 0) && (Index < ExList.Count - 1))
+            if ((int.TryParse(Console.ReadLine(), out int Index)) && (Index >= 0) && (Index < ExList.Count))
             {
                 ExList.RemoveRange(Index, 1);
                 Console.WriteLine("\n");
