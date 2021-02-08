@@ -1,0 +1,13 @@
+D:\ivc\Homework\Homework1\CSharp_HW1\HW5-2\obj\Debug\netcoreapp3.1\HW5-2.csprojAssemblyReference.cache
+D:\ivc\Homework\Homework1\CSharp_HW1\HW5-2\obj\Debug\netcoreapp3.1\HW5-2.AssemblyInfoInputs.cache
+D:\ivc\Homework\Homework1\CSharp_HW1\HW5-2\obj\Debug\netcoreapp3.1\HW5-2.AssemblyInfo.cs
+D:\ivc\Homework\Homework1\CSharp_HW1\HW5-2\obj\Debug\netcoreapp3.1\HW5-2.csproj.CoreCompileInputs.cache
+D:\ivc\Homework\Homework1\CSharp_HW1\HW5-2\bin\Debug\netcoreapp3.1\HW5-2.exe
+D:\ivc\Homework\Homework1\CSharp_HW1\HW5-2\bin\Debug\netcoreapp3.1\HW5-2.deps.json
+D:\ivc\Homework\Homework1\CSharp_HW1\HW5-2\bin\Debug\netcoreapp3.1\HW5-2.runtimeconfig.json
+D:\ivc\Homework\Homework1\CSharp_HW1\HW5-2\bin\Debug\netcoreapp3.1\HW5-2.runtimeconfig.dev.json
+D:\ivc\Homework\Homework1\CSharp_HW1\HW5-2\bin\Debug\netcoreapp3.1\HW5-2.dll
+D:\ivc\Homework\Homework1\CSharp_HW1\HW5-2\bin\Debug\netcoreapp3.1\HW5-2.pdb
+D:\ivc\Homework\Homework1\CSharp_HW1\HW5-2\obj\Debug\netcoreapp3.1\HW5-2.dll
+D:\ivc\Homework\Homework1\CSharp_HW1\HW5-2\obj\Debug\netcoreapp3.1\HW5-2.pdb
+D:\ivc\Homework\Homework1\CSharp_HW1\HW5-2\obj\Debug\netcoreapp3.1\HW5-2.genruntimeconfig.cache
