@@ -1,0 +1,16 @@
+D:\ivc\Homework\Homework1\CSharp_HW1\HW6-3\bin\Debug\HW6-3.exe.config
+D:\ivc\Homework\Homework1\CSharp_HW1\HW6-3\bin\Debug\HW6-3.exe
+D:\ivc\Homework\Homework1\CSharp_HW1\HW6-3\bin\Debug\HW6-3.pdb
+D:\ivc\Homework\Homework1\CSharp_HW1\HW6-3\obj\Debug\HW6-3.csprojAssemblyReference.cache
+D:\ivc\Homework\Homework1\CSharp_HW1\HW6-3\obj\Debug\HW6-3.csproj.CoreCompileInputs.cache
+D:\ivc\Homework\Homework1\CSharp_HW1\HW6-3\obj\Debug\HW6-3.exe
+D:\ivc\Homework\Homework1\CSharp_HW1\HW6-3\obj\Debug\HW6-3.pdb
+D:\ivc\Homework\Homework1\CSharp_HW1\HW6-3\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\ivc\Homework\Homework1\CSharp_HW1\HW6-3\bin\Debug\System.Security.AccessControl.dll
+D:\ivc\Homework\Homework1\CSharp_HW1\HW6-3\bin\Debug\System.Security.Permissions.dll
+D:\ivc\Homework\Homework1\CSharp_HW1\HW6-3\bin\Debug\System.Security.Principal.Windows.dll
+D:\ivc\Homework\Homework1\CSharp_HW1\HW6-3\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\ivc\Homework\Homework1\CSharp_HW1\HW6-3\bin\Debug\System.Security.AccessControl.xml
+D:\ivc\Homework\Homework1\CSharp_HW1\HW6-3\bin\Debug\System.Security.Permissions.xml
+D:\ivc\Homework\Homework1\CSharp_HW1\HW6-3\bin\Debug\System.Security.Principal.Windows.xml
+D:\ivc\Homework\Homework1\CSharp_HW1\HW6-3\obj\Debug\HW6-3.csproj.CopyComplete
