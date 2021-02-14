@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\ivc\\Homework\\Homework1\\CSharp_HW1\\HW5-2\\HW5-2.csproj": {}
+    "D:\\ivc\\Homework\\Homework1\\CSharp_HW1\\HW5-2\\HW5-2.csproj": {}
   },
   "projects": {
-    "d:\\ivc\\Homework\\Homework1\\CSharp_HW1\\HW5-2\\HW5-2.csproj": {
+    "D:\\ivc\\Homework\\Homework1\\CSharp_HW1\\HW5-2\\HW5-2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\ivc\\Homework\\Homework1\\CSharp_HW1\\HW5-2\\HW5-2.csproj",
+        "projectUniqueName": "D:\\ivc\\Homework\\Homework1\\CSharp_HW1\\HW5-2\\HW5-2.csproj",
         "projectName": "HW5-2",
-        "projectPath": "d:\\ivc\\Homework\\Homework1\\CSharp_HW1\\HW5-2\\HW5-2.csproj",
+        "projectPath": "D:\\ivc\\Homework\\Homework1\\CSharp_HW1\\HW5-2\\HW5-2.csproj",
         "packagesPath": "C:\\Users\\Professional\\.nuget\\packages\\",
-        "outputPath": "d:\\ivc\\Homework\\Homework1\\CSharp_HW1\\HW5-2\\obj\\",
+        "outputPath": "D:\\ivc\\Homework\\Homework1\\CSharp_HW1\\HW5-2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

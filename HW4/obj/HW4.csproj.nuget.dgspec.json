@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\ivc\\Homework\\Homework1\\CSharp_HW1\\HW4\\HW4.csproj": {}
+    "D:\\ivc\\Homework\\Homework1\\CSharp_HW1\\HW4\\HW4.csproj": {}
   },
   "projects": {
-    "d:\\ivc\\Homework\\Homework1\\CSharp_HW1\\HW4\\HW4.csproj": {
+    "D:\\ivc\\Homework\\Homework1\\CSharp_HW1\\HW4\\HW4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\ivc\\Homework\\Homework1\\CSharp_HW1\\HW4\\HW4.csproj",
+        "projectUniqueName": "D:\\ivc\\Homework\\Homework1\\CSharp_HW1\\HW4\\HW4.csproj",
         "projectName": "HW4",
-        "projectPath": "d:\\ivc\\Homework\\Homework1\\CSharp_HW1\\HW4\\HW4.csproj",
+        "projectPath": "D:\\ivc\\Homework\\Homework1\\CSharp_HW1\\HW4\\HW4.csproj",
         "packagesPath": "C:\\Users\\Professional\\.nuget\\packages\\",
-        "outputPath": "d:\\ivc\\Homework\\Homework1\\CSharp_HW1\\HW4\\obj\\",
+        "outputPath": "D:\\ivc\\Homework\\Homework1\\CSharp_HW1\\HW4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
