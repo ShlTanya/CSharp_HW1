@@ -7,7 +7,7 @@
         public string LastName { get; set; }
         public bool Gender { get; set; }
         public int Age { get; set; }
-        public int StoryId { get; set; }
+        public int? StoryId { get; set; }
         public Story Story { get; set; }
 
     }

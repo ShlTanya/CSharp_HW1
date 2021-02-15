@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pgeq0Y9hx9kFvK2e+NGDMly6vsTXtXBhayj78rXCuNFAChZwQgslGo0QmUOaBXodJrTLNak7CGqqM2wdw1M9HQ==",
+  "dgSpecHash": "eGi0azABlktzo9sUG5HQHokFl3NOtoOatPya42SpM3NuI+yiy2Lp/LFzAID+FMaqpmxzIOBqKeAoKWsofXXFpA==",
   "success": true,
-  "projectFilePath": "D:\\ivc\\Homework\\Homework1\\CSharp_HW1\\HW7\\HW7.csproj",
+  "projectFilePath": "d:\\ivc\\Homework\\Homework1\\CSharp_HW1\\HW7\\HW7.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Professional\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Professional\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

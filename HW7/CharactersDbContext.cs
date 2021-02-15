@@ -9,6 +9,7 @@ namespace HW7
     {
         public DbSet<Character> Characters { get; set; }
         public DbSet<Story> Stories { get; set; }
+        public DbSet<Author> Authors { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -16,5 +17,13 @@ namespace HW7
 
             optionsBuilder.UseSqlServer(configuration.GetConnectionString("CharactersConnectionString"));
         }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Author>().HasData(
+                new Author { Id = 1, FirstName = "Isaak", LastName = "Azimov", Birthday = new System.DateTime(1920,2,1), Description = "" },
+                new Author { Id = 2, FirstName = "John R. R.", LastName = "Tolkien", Birthday = new System.DateTime(1892,01,03), Description = "" },
+                new Author { Id = 3, FirstName = "George", LastName = "Lucas", Birthday = new System.DateTime(1944,05,14), Description = "Американский кинопродюсер" });
+         }
     }
 }
