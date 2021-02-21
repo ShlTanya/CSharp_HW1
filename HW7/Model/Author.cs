@@ -1,7 +1,9 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore;
+using System;
 
 namespace HW7.Model
 {
+    [Index(nameof(FirstName), nameof(LastName), IsUnique = true)]
     public class Author
     {
         public int Id { get; set; }

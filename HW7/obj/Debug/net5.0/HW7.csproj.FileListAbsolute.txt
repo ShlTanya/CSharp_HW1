@@ -69,3 +69,5 @@ d:\ivc\Homework\Homework1\CSharp_HW1\HW7\bin\Debug\net5.0\Microsoft.Extensions.C
 d:\ivc\Homework\Homework1\CSharp_HW1\HW7\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
 d:\ivc\Homework\Homework1\CSharp_HW1\HW7\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
 d:\ivc\Homework\Homework1\CSharp_HW1\HW7\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+d:\ivc\Homework\Homework1\CSharp_HW1\HW7\bin\Debug\net5.0\Castle.Core.dll
+d:\ivc\Homework\Homework1\CSharp_HW1\HW7\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
