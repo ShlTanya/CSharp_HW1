@@ -1,4 +1,3 @@
-D:\ivc\Homework\Homework1\CSharp_HW1\HW5-2\obj\Debug\netcoreapp3.1\HW5-2.csprojAssemblyReference.cache
 D:\ivc\Homework\Homework1\CSharp_HW1\HW5-2\obj\Debug\netcoreapp3.1\HW5-2.AssemblyInfoInputs.cache
 D:\ivc\Homework\Homework1\CSharp_HW1\HW5-2\obj\Debug\netcoreapp3.1\HW5-2.AssemblyInfo.cs
 D:\ivc\Homework\Homework1\CSharp_HW1\HW5-2\obj\Debug\netcoreapp3.1\HW5-2.csproj.CoreCompileInputs.cache

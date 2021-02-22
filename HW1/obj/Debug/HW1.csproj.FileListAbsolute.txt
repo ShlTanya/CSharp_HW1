@@ -15,7 +15,6 @@ d:\ivc\Homework\HW1\obj\Debug\HW1.pdb
 d:\ivc\Homework\Homework1\CSharp_HW1\HW1\bin\Debug\HW1.exe.config
 d:\ivc\Homework\Homework1\CSharp_HW1\HW1\bin\Debug\HW1.exe
 d:\ivc\Homework\Homework1\CSharp_HW1\HW1\bin\Debug\HW1.pdb
-d:\ivc\Homework\Homework1\CSharp_HW1\HW1\obj\Debug\HW1.csprojAssemblyReference.cache
 d:\ivc\Homework\Homework1\CSharp_HW1\HW1\obj\Debug\HW1.csproj.CoreCompileInputs.cache
 d:\ivc\Homework\Homework1\CSharp_HW1\HW1\obj\Debug\HW1.exe
 d:\ivc\Homework\Homework1\CSharp_HW1\HW1\obj\Debug\HW1.pdb

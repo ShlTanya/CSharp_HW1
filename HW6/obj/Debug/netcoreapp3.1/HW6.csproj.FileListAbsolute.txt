@@ -4,7 +4,6 @@ D:\ivc\Homework\Homework1\CSharp_HW1\HW6\bin\Debug\netcoreapp3.1\HW6.runtimeconf
 D:\ivc\Homework\Homework1\CSharp_HW1\HW6\bin\Debug\netcoreapp3.1\HW6.runtimeconfig.dev.json
 D:\ivc\Homework\Homework1\CSharp_HW1\HW6\bin\Debug\netcoreapp3.1\HW6.dll
 D:\ivc\Homework\Homework1\CSharp_HW1\HW6\bin\Debug\netcoreapp3.1\HW6.pdb
-D:\ivc\Homework\Homework1\CSharp_HW1\HW6\obj\Debug\netcoreapp3.1\HW6.csprojAssemblyReference.cache
 D:\ivc\Homework\Homework1\CSharp_HW1\HW6\obj\Debug\netcoreapp3.1\HW6.AssemblyInfoInputs.cache
 D:\ivc\Homework\Homework1\CSharp_HW1\HW6\obj\Debug\netcoreapp3.1\HW6.AssemblyInfo.cs
 D:\ivc\Homework\Homework1\CSharp_HW1\HW6\obj\Debug\netcoreapp3.1\HW6.csproj.CoreCompileInputs.cache
@@ -44,3 +43,4 @@ d:\ivc\Homework\Homework1\CSharp_HW1\HW6\bin\Debug\netcoreapp3.1\runtimes\unix\l
 d:\ivc\Homework\Homework1\CSharp_HW1\HW6\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
 d:\ivc\Homework\Homework1\CSharp_HW1\HW6\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 d:\ivc\Homework\Homework1\CSharp_HW1\HW6\obj\Debug\netcoreapp3.1\HW6.csproj.CopyComplete
+d:\ivc\Homework\Homework1\CSharp_HW1\HW6\obj\Debug\netcoreapp3.1\HW6.csprojAssemblyReference.cache

@@ -1,4 +1,3 @@
-d:\ivc\Homework\Homework1\CSharp_HW1\HW7\obj\Debug\net5.0\HW7.csprojAssemblyReference.cache
 d:\ivc\Homework\Homework1\CSharp_HW1\HW7\obj\Debug\net5.0\HW7.GeneratedMSBuildEditorConfig.editorconfig
 d:\ivc\Homework\Homework1\CSharp_HW1\HW7\obj\Debug\net5.0\HW7.AssemblyInfoInputs.cache
 d:\ivc\Homework\Homework1\CSharp_HW1\HW7\obj\Debug\net5.0\HW7.AssemblyInfo.cs
@@ -71,3 +70,4 @@ d:\ivc\Homework\Homework1\CSharp_HW1\HW7\bin\Debug\net5.0\Microsoft.Extensions.F
 d:\ivc\Homework\Homework1\CSharp_HW1\HW7\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
 d:\ivc\Homework\Homework1\CSharp_HW1\HW7\bin\Debug\net5.0\Castle.Core.dll
 d:\ivc\Homework\Homework1\CSharp_HW1\HW7\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+d:\ivc\Homework\Homework1\CSharp_HW1\HW7\obj\Debug\net5.0\HW7.csprojAssemblyReference.cache

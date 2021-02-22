@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace HW9.AssemblyEx
+namespace HW10_4
 {
-    class AssemblyTestClass
+    public class AssemblyTestClass
     {
         private readonly int Field1;
         public AssemblyTestClass()

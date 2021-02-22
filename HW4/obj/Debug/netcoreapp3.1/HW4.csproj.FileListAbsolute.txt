@@ -4,10 +4,10 @@ D:\ivc\Homework\Homework1\CSharp_HW1\HW4\bin\Debug\netcoreapp3.1\HW4.runtimeconf
 D:\ivc\Homework\Homework1\CSharp_HW1\HW4\bin\Debug\netcoreapp3.1\HW4.runtimeconfig.dev.json
 D:\ivc\Homework\Homework1\CSharp_HW1\HW4\bin\Debug\netcoreapp3.1\HW4.dll
 D:\ivc\Homework\Homework1\CSharp_HW1\HW4\bin\Debug\netcoreapp3.1\HW4.pdb
-D:\ivc\Homework\Homework1\CSharp_HW1\HW4\obj\Debug\netcoreapp3.1\HW4.csprojAssemblyReference.cache
 D:\ivc\Homework\Homework1\CSharp_HW1\HW4\obj\Debug\netcoreapp3.1\HW4.AssemblyInfoInputs.cache
 D:\ivc\Homework\Homework1\CSharp_HW1\HW4\obj\Debug\netcoreapp3.1\HW4.AssemblyInfo.cs
 D:\ivc\Homework\Homework1\CSharp_HW1\HW4\obj\Debug\netcoreapp3.1\HW4.csproj.CoreCompileInputs.cache
 D:\ivc\Homework\Homework1\CSharp_HW1\HW4\obj\Debug\netcoreapp3.1\HW4.dll
 D:\ivc\Homework\Homework1\CSharp_HW1\HW4\obj\Debug\netcoreapp3.1\HW4.pdb
 D:\ivc\Homework\Homework1\CSharp_HW1\HW4\obj\Debug\netcoreapp3.1\HW4.genruntimeconfig.cache
+d:\ivc\Homework\Homework1\CSharp_HW1\HW4\obj\Debug\netcoreapp3.1\HW4.csprojAssemblyReference.cache

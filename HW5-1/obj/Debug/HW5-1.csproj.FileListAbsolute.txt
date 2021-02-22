@@ -1,10 +1,10 @@
 D:\ivc\Homework\Homework1\CSharp_HW1\HW5-1\bin\Debug\HW-5-1.exe.config
 D:\ivc\Homework\Homework1\CSharp_HW1\HW5-1\bin\Debug\HW-5-1.exe
 D:\ivc\Homework\Homework1\CSharp_HW1\HW5-1\bin\Debug\HW-5-1.pdb
-D:\ivc\Homework\Homework1\CSharp_HW1\HW5-1\obj\Debug\HW5-1.csprojAssemblyReference.cache
 D:\ivc\Homework\Homework1\CSharp_HW1\HW5-1\obj\Debug\HW_5_1.frmCalc.resources
 D:\ivc\Homework\Homework1\CSharp_HW1\HW5-1\obj\Debug\HW_5_1.Properties.Resources.resources
 D:\ivc\Homework\Homework1\CSharp_HW1\HW5-1\obj\Debug\HW5-1.csproj.GenerateResource.cache
 D:\ivc\Homework\Homework1\CSharp_HW1\HW5-1\obj\Debug\HW5-1.csproj.CoreCompileInputs.cache
 D:\ivc\Homework\Homework1\CSharp_HW1\HW5-1\obj\Debug\HW-5-1.exe
 D:\ivc\Homework\Homework1\CSharp_HW1\HW5-1\obj\Debug\HW-5-1.pdb
+d:\ivc\Homework\Homework1\CSharp_HW1\HW5-1\obj\Debug\HW5-1.csprojAssemblyReference.cache
