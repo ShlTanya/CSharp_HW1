@@ -11,20 +11,38 @@ namespace HW10
 {
     class Program
     {
-        static void Main(string[] args)
+        static public void Main(string[] args)
         {
             AttributesExample.Execute();
+            Console.WriteLine("Press key to continue");
             Console.ReadKey();
 
             AssemblyExample.Execute();
+            Console.WriteLine("Press key to continue");
             Console.ReadKey();
 
-            SerializedExample.SerializedToJson();
+            ShowSerialization();
+
+        }
+
+        static async void ShowSerialization()
+        {
+            Console.WriteLine($"===========Attributes example(HW10 SerializedToJson)============");
+
+            Console.WriteLine("Create new object exampleClass");
+            ExampleClass exampleClass = new ExampleClass { ClassName = "MyClass" };
+            exampleClass.MyClassExec();
+            exampleClass.UpdateExecDate(new DateTime(2021, 02, 01));
+            exampleClass.MyClassExec();
+
+            SerializedExample<ExampleClass>.SerializedToJson(exampleClass);
+            Console.WriteLine("Press key to continue");
             Console.ReadKey();
 
-            SerializedExample.DeSerializedFromJson();
+            Console.WriteLine($"===========Attributes example(HW10 DeSerializedFromJson)============");
+            ExampleClass exampleClassNew = await SerializedExample<ExampleClass>.DeSerializedFromJson();
+            exampleClassNew.MyClassExec();
             Console.ReadKey();
-
         }
 
     }

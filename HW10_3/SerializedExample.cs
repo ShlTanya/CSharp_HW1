@@ -1,44 +1,34 @@
 ﻿using System;
 using System.IO;
 using System.Text.Json;
-using HW10_1;
+using System.Threading.Tasks;
 
 namespace HW10_3
 {
-    public class SerializedExample
+    public class SerializedExample<T> where T: class 
     {
-        public static void SerializedToJson()
+        public static void SerializedToJson(T ob)
         {
-            Console.WriteLine($"===========Attributes example(HW10 SerializedToJson)============");
-
-            Console.WriteLine("Create new object exampleClass");
-            ExampleClass exampleClass = new ExampleClass { ClassName = "MyClass" };
-            exampleClass.MyClassExec();
-            exampleClass.UpdateExecDate(new DateTime(2021, 02, 01));
-            exampleClass.MyClassExec();
-
-            using (FileStream stream = new FileStream(@"D:\ExampleClass.txt", FileMode.OpenOrCreate))
+             using (FileStream stream = new FileStream(@"D:\ExampleClass.txt", FileMode.OpenOrCreate))
             {
-                JsonSerializer.SerializeAsync<ExampleClass>(stream, exampleClass, 
+                JsonSerializer.SerializeAsync<T>(stream, ob, 
                     new JsonSerializerOptions { IncludeFields = true });
             }
 
             Console.WriteLine("Object was serialized to Json");
         }
 
-        public static async void DeSerializedFromJson()
+        public static async Task<T> DeSerializedFromJson()
         {
-            Console.WriteLine($"===========Attributes example(HW10 DeSerializedFromJson)============");
- 
-            ExampleClass exampleClass;
+            T obNew;
 
             using (FileStream stream = new FileStream(@"D:\ExampleClass.txt", FileMode.OpenOrCreate))
             {
-                exampleClass = await JsonSerializer.DeserializeAsync<ExampleClass>(stream,
+                obNew = await JsonSerializer.DeserializeAsync<T>(stream,
                    new JsonSerializerOptions { IncludeFields = true });
             }
-            exampleClass.MyClassExec();
             Console.WriteLine("Object was deserialized from Json");
+            return obNew;
         }
     }
 }
